@@ -1,1 +1,2 @@
 # CourseRegistration
+The Course Registration System is a web-based application designed to streamline the process of student course enrollment. It provides an intuitive interface for students to register their names and select the courses they wish to enroll in for the upcoming semester. The system aims to simplify the registration process, reduce administrative workload, and enhance the overall experience for both students and administrators.
